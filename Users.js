@@ -1,1 +1,1 @@
-Hello this JavaScript Code.
+Hello this JavaScript Code.Its Create Dynamic Webpages.
